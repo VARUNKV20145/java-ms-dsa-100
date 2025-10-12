@@ -18,6 +18,7 @@ public class AsscendingArray {
         long startTime = System.currentTimeMillis();
         System.out.println(checkAsscending(arr)?"Asscending Order" : "Not Asccending Order");
         long endTime = System.currentTimeMillis();
+        System.out.println("Time Taken : " + (endTime-startTime) + "ms");
         sc.close();
     }
 
