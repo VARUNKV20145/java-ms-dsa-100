@@ -1,4 +1,4 @@
-package dsa.day1;
+package dsa.arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
